@@ -9,7 +9,7 @@ Requirements
 
 Getting started
 ---
-1. Run mex --setup.
+1. Run mex -setup.
 
 * In example_global.m Figure 4b) from [1] is reproduced.
 * In example_simultanouse.m Figure 4 from [2] is reproduced.
