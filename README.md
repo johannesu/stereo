@@ -11,9 +11,9 @@ Getting started
 ---
 1. Run mex --setup.
 
-In example_global.m Figure 4b) from (1) is reproduced.
-In example_simultanouse.m Figure 4 from (2) is reproduced.
-In example_ncc we show how to use a unary term based on normalized cross correlation
+* In example_global.m Figure 4b) from [1] is reproduced.
+* In example_simultanouse.m Figure 4 from [2] is reproduced.
+* In example_ncc we show how to use a unary term based on normalized cross correlation.
 
 
 Third party software
@@ -27,7 +27,7 @@ The code is bundled with optimization software.
 *  The unary and pairwise cost of dispmap_globalstereo is based on [5].
 
 Extend
----
+====
 The best way to define a new unary (or any other modifications) is to inherit from dispmap_super.
 This is how dispmap_ncc and dispmap_globalstereo is implemented.
 
