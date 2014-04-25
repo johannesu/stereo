@@ -5,7 +5,7 @@ optimization parts.
 
 ![ScreenShot](screenshot/teddy.png)
 
-Example: Two input image and the estimated disparity map.
+Example result: Two input images and the estimated disparity map.
 
 Requirements 
 ---
