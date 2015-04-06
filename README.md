@@ -3,7 +3,7 @@ Code for the two papers [1] and [2].
 The code is written in Matlab and use mex'ed c++ code for the
 optimization parts.
 
-![ScreenShot](screenshot/teddy.png)
+![Exampe result](screenshot/teddy.png)
 
 Example result: Two input images and the estimated disparity map.
 
