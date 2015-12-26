@@ -43,7 +43,7 @@ References
 1.  Carl Olsson, Johannes Ulén and Yuri Boykov
 		[In Defense of 3D-Label Stereo]
 		(http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=566)
-		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007.
+		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013.
 
 2. 	Johannes Ulén and Carl Olsson
 		[Simultaneous Fusion Moves for 3D-Label Stereo]
