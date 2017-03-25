@@ -43,20 +43,20 @@ References
 
 1. [In Defense of 3D-Label Stereo](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=566).<br />
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013.<br />
- __Carl Olsson, Johannes Ulén, and Yuri Boykov__.<br />
+ _Carl Olsson, Johannes Ulén, and Yuri Boykov_.
 
 2. [Simultaneous Fusion Moves for 3D-Label Stereo](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=571).<br />
 Intentional Conference on Energy Minimization Methods in Computer Vision and Pattern Recognition (EMMCVPR), 2013.<br />
-__Johannes Ulén and Carl Olsson__
+_Johannes Ulén and Carl Olsson_
 
 3. [Optimizing binary MRFs via extended roof duality](http://pub.ist.ac.at/~vnk/software.html).<br />
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007.<br />
-__C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer__.
+_C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer_.
 
 4. [Convergent Tree-reweighted Message Passing for Energy Minimization](http://pub.ist.ac.at/~vnk/papers/TRW-S.html).<br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2006.<br />
-__Vladimir Kolmogorov__.
+_Vladimir Kolmogorov_.
 
 5. [Global Stereo Reconstruction under Second-Order Smoothness Priors](http://www.robots.ox.ac.uk/~ojw/2op/).<br />
 IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2009.<br />
-__Olivier Woodford, Phil Torr, Ian Reid, Andrew Fitzgibbon__.
+_Olivier Woodford, Phil Torr, Ian Reid, Andrew Fitzgibbon_.
