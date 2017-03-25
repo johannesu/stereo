@@ -40,26 +40,22 @@ method with a pairwise_cost function of a different from will break simultaneous
 
 References
 ---
-1.  Carl Olsson, Johannes Ulén and Yuri Boykov
-		[In Defense of 3D-Label Stereo]
-		(http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=566)
+1.  Carl Olsson, Johannes Ulén, and Yuri Boykov.
+		[In Defense of 3D-Label Stereo](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=566).
 		IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2013.
 
-2. 	Johannes Ulén and Carl Olsson
-		[Simultaneous Fusion Moves for 3D-Label Stereo]
-		(http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=571)
+2. 	Johannes Ulén and Carl Olsson.
+		[Simultaneous Fusion Moves for 3D-Label Stereo](http://www2.maths.lth.se/vision/publications/publications/view_paper.php?paper_id=571).
 		Intentional Conference on Energy Minimization Methods in Computer Vision and Pattern Recognition (EMMCVPR), 2013.
 
 3. C. Rother, V. Kolmogorov, V. Lempitsky, and M. Szummer. 
-  [Optimizing binary MRFs via extended roof duality.]
-  (http://pub.ist.ac.at/~vnk/software.html) IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007.
+  	[Optimizing binary MRFs via extended roof duality](http://pub.ist.ac.at/~vnk/software.html).
+  	IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2007.
 
-4. Vladimir Kolmogorov
-[Convergent Tree-reweighted Message Passing for Energy Minimization]
-(http://pub.ist.ac.at/~vnk/papers/TRW-S.html)
-IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2006.
+4. Vladimir Kolmogorov.
+	[Convergent Tree-reweighted Message Passing for Energy Minimization](http://pub.ist.ac.at/~vnk/papers/TRW-S.html).
+	IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2006.
 
-5. Olivier Woodford, Phil Torr, Ian Reid, Andrew Fitzgibbon
-[Global Stereo Reconstruction under Second-Order Smoothness Priors]
-(http://www.robots.ox.ac.uk/~ojw/2op/)
-IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2009.
+5. Olivier Woodford, Phil Torr, Ian Reid, Andrew Fitzgibbon.
+	[Global Stereo Reconstruction under Second-Order Smoothness Priors](http://www.robots.ox.ac.uk/~ojw/2op/).
+	IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2009.
