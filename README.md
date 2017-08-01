@@ -7,6 +7,8 @@ optimization parts.
 
 Example result: Two input images and the estimated disparity map.
 
+The code has been tested on MATLAB 2013a with GCC 4.8 on Ubuntu 13.10.
+
 Requirements 
 ---
 1. MATLAB and a c++ compiler.
