@@ -35,8 +35,9 @@ void mexFunction(int nlhs,      						/* number of expected outputs */
 
 	ASSERT(U0.M == U1.M);
 	ASSERT(U1.N == U1.N);
-	ASSERT(U0.N == 1);
-	ASSERT(U1.N == 1);
+	//ASSERT(U0.N == 1);
+	ASSERT(1 == U0.N);
+        ASSERT(U1.N == 1);
 
 	ASSERT(E00.N == E01.N);
 	ASSERT(E01.N == E10.N);
